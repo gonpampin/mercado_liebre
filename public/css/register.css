@@ -1,0 +1,30 @@
+
+.white{
+    width: 100%;
+    background-color: white;
+}
+form{
+    background-color: #ebebeb;
+    width: 50%;
+}
+.form-control{
+    
+width: 100%;    
+flex-direction: column;
+margin-bottom: 15px;
+border-radius: 6px;
+border-color: transparent;
+
+
+
+}
+.form-control label{
+    width: 100%;
+    border-radius: 6px;
+    border-color: transparent;
+}
+.form-control input{
+width: 100%;
+border-radius: 6px;
+border-color: transparent;
+}
