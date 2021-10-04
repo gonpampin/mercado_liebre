@@ -1,7 +1,6 @@
 {
   "name": "mercado_liebre",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "dev": "nodemon app.js",
@@ -11,5 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonpampin/mercado_liebre.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gonpampin/mercado_liebre/issues"
+  },
+  "homepage": "https://github.com/gonpampin/mercado_liebre#readme",
+  "description": ""
 }
